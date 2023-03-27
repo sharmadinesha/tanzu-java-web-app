@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: tanzu-java-web-app
-  description: Tanzu Java Web App
+  description: Tanzu Java Web App Ver1
   tags:
     - app-accelerator
     - java
